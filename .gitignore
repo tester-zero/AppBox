@@ -1,0 +1,62 @@
+# Miscellaneous Flutter/Dart files
+# --------------------------------
+bin/
+build/
+lib/generated_plugin_registrant.dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+# In case you have logs
+flutter_01.log
+*.log
+
+# Symbolication related
+app.*.symbols
+app.*.map.json
+
+# Android specific
+# ----------------
+android/local.properties
+android/gen/
+android/generated/
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+*.iml
+*.ipr
+*.iws
+.gradle/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# iOS specific
+# ------------
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+# Pods - if you use them, ignore the directory but keep the Podfile
+**/Pods/
+**/Podfile.lock
+
+# macOS/Linux/Windows specific
+# ----------------------------
+# Ignore ephemeral platform folders that are recreated on build
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# IDE files
+# ---------
+.idea/
+.vscode/
+*.iml
+tree.txt
+
+# Web
+# ---
+.dart_tool/
+build/
