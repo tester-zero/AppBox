@@ -1,8 +1,17 @@
 # AppBox
 
+<p align="center">
+<img width="417" height="183" alt="Logo-AppBox" src="https://github.com/user-attachments/assets/4fad3623-efb1-4a09-86c0-0d8f355adfea" />
+</p>
+
 AppBox is a modern Android application built with Flutter that allows users to create custom workspaces (app groups) and quickly launch their most important apps from a clean, minimal interface.
 
 Instead of a traditional app drawer, AppBox focuses on organization, speed, and personalization. Users can group apps into meaningful workspaces such as Work, Social, Media, or Study, and access them with fewer taps.
+
+| Dark / Light Mode | Home Screen | Workspace |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/9152f53d-0ac4-49a6-8cef-0421403b9d37" width="300" /> | <img src="https://github.com/user-attachments/assets/f1a4b908-d3f5-4d7f-befd-2ed71c0a267c" width="300" /> | <img src="https://github.com/user-attachments/assets/f3b023d5-00e8-4ac0-941d-da28c10f3af7" width="300" /> |
+
 
 ---
 
